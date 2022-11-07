@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-03-image-finder/static/css/main.c25cce3f.css",
-    "main.js": "/goit-react-hw-03-image-finder/static/js/main.455ba8a2.js",
+    "main.css": "/goit-react-hw-03-image-finder/static/css/main.1868dc2c.css",
+    "main.js": "/goit-react-hw-03-image-finder/static/js/main.ad9bfefe.js",
     "static/media/emyller-magnifying-glass.svg": "/goit-react-hw-03-image-finder/static/media/emyller-magnifying-glass.7879e8266ee721a7f6c1.svg",
     "index.html": "/goit-react-hw-03-image-finder/index.html",
-    "main.c25cce3f.css.map": "/goit-react-hw-03-image-finder/static/css/main.c25cce3f.css.map",
-    "main.455ba8a2.js.map": "/goit-react-hw-03-image-finder/static/js/main.455ba8a2.js.map"
+    "main.1868dc2c.css.map": "/goit-react-hw-03-image-finder/static/css/main.1868dc2c.css.map",
+    "main.ad9bfefe.js.map": "/goit-react-hw-03-image-finder/static/js/main.ad9bfefe.js.map"
   },
   "entrypoints": [
-    "static/css/main.c25cce3f.css",
-    "static/js/main.455ba8a2.js"
+    "static/css/main.1868dc2c.css",
+    "static/js/main.ad9bfefe.js"
   ]
 }
